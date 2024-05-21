@@ -1,0 +1,8 @@
+name: FTextra
+version: '${project.version}'
+main: io.github.chaechae.ftextraMain
+api-version: '1.20'
+softdepend: [Youtube Data API v3, Dropbox API]
+authors: [F_T1043, chaechae09_]
+description: FT의 기능 확장 플러그인
+website: https://github.com/ChaechaeDeveloper/
